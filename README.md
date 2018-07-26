@@ -9,4 +9,5 @@ LAB-2 Wiki: Part(1)
 LAB-3 Wiki: Part(1)
             Part(2) https://github.com/Thedonutz/CS490-LABS/wiki/LAB-3--P2.-FIFA-Spark-DB-RDD
 
-LAB-4 Wiki:
+LAB-4 Wiki: Part(1) https://github.com/Thedonutz/CS490-LABS/wiki/LAB-4--P1.-Spark-Classification-Machine-Learning
+            Part(2) https://github.com/plfoley10/UMKC-CSEE-5590---Big-Data-Programming-Labs/wiki/Lab-4-Wiki-Page
